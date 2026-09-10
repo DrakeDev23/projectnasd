@@ -11,15 +11,6 @@
 <body>
     <div>
         <h1>Drake</h1>
-        <div>
-            <nav>
-                <ul>
-                    <li><a href="">home</a></li>
-                    <li><a href="">about</a></li>
-                    <li><a href="">contact</a></li>
-                </ul>
-            </nav>
-        </div>
     </div>
 </body>
 
